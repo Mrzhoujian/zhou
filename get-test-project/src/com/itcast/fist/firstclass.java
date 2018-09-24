@@ -7,4 +7,7 @@ public class firstclass {
         System.out.println("nfeoverughqenuog");
         System.out.println("nfeoverughqenuog");
     }
+    public void String(){
+        System.out.println("dmjoiqnhgiond");
+    }
 }
